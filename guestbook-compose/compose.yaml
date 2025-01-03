@@ -1,5 +1,4 @@
 services:
-
   redis-leader:
     container_name: redis-leader
     image: redis:latest
